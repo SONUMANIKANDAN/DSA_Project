@@ -1,0 +1,6 @@
+# DSA_Project
+This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, number of available parking spaces, average daily rate of transactions by a customer etc. The dataset comprises 36 variables and 119390 observations. The dataset comprehends bookings made between the year 2015 and 2017 in Portugal, including bookings that effectively arrived and bookings that were cancelled. 
+This project aims to demonstrate how the predictive analysis of the model can contribute to booking cancellation forecasting, by implementing various Algorithms like Logistic, SVM models, KNN, Random Forest, Decision Tree, etc.
+It prevents the hotel as well as Tourists from poor dealing of rooms. User/Customer has to enter certain fields by which this model detects his prediction about the cancellation.
+Furthermore we will be analysing some key metrics for hotel bookings and also we will be looking through the data to analyse patterns associated with each segment. Using the
+results from the above analysis, businesses can make key decisions regarding the customer experience they desire to deliver
